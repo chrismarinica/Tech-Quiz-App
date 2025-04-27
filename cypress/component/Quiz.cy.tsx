@@ -1,6 +1,6 @@
 // cypress/component/Quiz.cy.tsx
 
-import React from 'react';
+//import React from 'react';
 import Quiz from '../../client/src/components/Quiz';
 
 describe('<Quiz />', () => {
