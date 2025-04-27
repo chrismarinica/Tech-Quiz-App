@@ -6,6 +6,10 @@ The **Tech Quiz App** is a web application built using the **MERN** stack (Mongo
 
 This project also includes **Cypress** for both **component** and **end-to-end** testing, ensuring that the app functions as expected across its features.
 
+![Tech Quiz App Screenshot](./assets/techquizapp-1.png)
+![Tech Quiz App Screenshot](./assets/techquizapp-2.png)
+![Tech Quiz App Screenshot](./assets/techquizapp-3.png)
+
 ## Features
 
 - Take a tech quiz with 10 random questions
