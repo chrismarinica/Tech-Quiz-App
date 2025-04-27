@@ -10,6 +10,9 @@ This project also includes **Cypress** for both **component** and **end-to-end**
 ![Tech Quiz App Screenshot](./assets/techquizapp-2.png)
 ![Tech Quiz App Screenshot](./assets/techquizapp-3.png)
 
+# Video Walkthrough
+https://app.screencastify.com/v3/watch/i2oA4xc61HJcsNxppFAP
+
 ## Features
 
 - Take a tech quiz with 10 random questions
